@@ -24,7 +24,7 @@ air_in=ct.Reservoir(air)
 air_mdot=ct.Quantity(air, mass=20)
 
 fuel = ct.Solution('Dagaut_Ori.cti')
-fuel.TPY = 300, 2e+06, 'NC10H22:0.74,PHC3H7:0.15,CYC9H18:0.11'
+fuel.TPY = 300, 3e+05, 'NC10H22:0.74,PHC3H7:0.15,CYC9H18:0.11'
 fuel_in=ct.Reservoir(fuel)
 fuel_mdot = ct.Quantity(fuel, mass=1)
 fuel_mdot.mass=air_mdot.mass/lambda_air/14.9
