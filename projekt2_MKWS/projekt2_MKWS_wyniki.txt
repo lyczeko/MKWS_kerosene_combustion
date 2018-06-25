@@ -1,0 +1,75 @@
+﻿P0: 1,4 MPa = 13,82 atm
+
+T0: 800 K
+
+
+
+chem_pecs, stechiometria
+
+NC10H22:0.74,PHC3H7:0.15,CYC9H18:0.11,O2:13.6675,N2:51.3898
+
+T1: 3215,49 K
+
+P1: 10,76 MPa=106,23 atm
+
+CJ speed: 1854,73 m/s
+
+
+
+chem_pecs, lambda=1,5
+
+NC10H22:0.74,PHC3H7:0.15,CYC9H18:0.11,O2:20.5,N2:77.0847
+
+T1: 2902,8 K
+
+P1: 9,07 MPa=89,53 atm
+
+CJ speed: 1718,43 m/s
+
+
+
+Dagaut_Ori, stechiometria
+
+NC10H22:0.74,PHC3H7:0.15,CYC9H18:0.11,O2:13.6675,N2:51.3898
+
+T1: 3177,32 K
+
+P1: 10,66 MPa=105,2 atm
+
+CJ speed: 1842,17 m/s
+
+
+
+Dagaut_Ori, lambda=1,5
+
+NC10H22:0.74,PHC3H7:0.15,CYC9H18:0.11,O2:20.5,N2:77.0847
+
+T1: 2861,11 K
+
+P1: 8,95 MPa=88,31 atm
+
+CJ speed: 1702,55 m/s
+
+
+
+JetSurf, stechiometria
+
+NC10H22:1.0,O2:15.5,N2:58.28
+
+T1: 3171,67K
+
+P1: 10,51 MPa=103,71 atm
+
+CJ speed: 1834,47 m/s
+
+
+
+JetSurf, lambda=1,5
+
+NC10H22:1.0,O2:23.25,N2:87.42
+
+T1: 2808,48K
+
+P1: 8,69 MPa=85,81 atm
+
+CJ speed: 1685,84 m/s
